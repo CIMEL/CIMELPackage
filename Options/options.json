@@ -1,0 +1,19 @@
+﻿{
+    "input": {
+        "data": "",
+        "modis_brdf": "",
+        "ins_para": "",
+        "metadata": ""
+    },
+    "output": {
+        "output": "",
+        "chartset": ""
+    },
+    "processor": {
+        "creator": "",
+        "outputor": "",
+        "drawer": "",
+        "splitter": ""
+    },
+    "isInit": false
+}
